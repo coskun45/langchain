@@ -1,10 +1,10 @@
+beautifulsoup4
 langchain
+langgraph
+langchainhub
 langchain-community
-langchain-core
-langchain-openai
-langchain-text-splitters
-openai
+tavily-python
+langchain-chroma
 python-dotenv
-fastapi
-langserve
-sse_starlette
+pytest
+langchain-openai
